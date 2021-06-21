@@ -21,3 +21,17 @@ font-size: 30;
     width: 200px;
     height: 250px;
 }
+#bika{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px rgb(4, 41, 248);
+
+}
+#bika h5{
+    background: rgb(235, 191, 235);
+}
+.bob3{
+    border-radius: 10px;
+    padding: 5px;
+}
