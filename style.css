@@ -1,0 +1,23 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+}
+.text_images_and_result{
+    font-size: 35px;
+}
+.text_images_and_result h5{
+    font-size: 20;
+}
+.bob3 h4{
+font-size: 30;
+}
+.header_div{
+    background: rgb(255, 238, 0);
+    color: black;
+}
+.header_div img{
+    width: 100px;
+}
+.text_images_and_result img{
+    width: 200px;
+    height: 250px;
+}
