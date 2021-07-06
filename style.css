@@ -1,40 +1,47 @@
 body{
-    background-color: violet;
-    font-family: 'Kaushan Script', cursive;
+    background: rgb(166, 222, 245);
 }
-.text_images_and_result{
-    font-size: 35px;
-}
-.text_images_and_result h5{
-    font-size: 20;
-}
-.bob3 h4{
-font-size: 30;
-}
-.header_div{
-    background: rgb(255, 238, 0);
+.test_image_and_result{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px; 
     color: black;
+    box-shadow:5px 5px 5px rgb(255, 254, 254);
+    line-height: 7;
+    font-size: 30px;
 }
-.header_div img{
-    width: 100px;
+.test_image_and_result img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    border: 3px solid blue;
 }
-.text_images_and_result img{
-    width: 200px;
-    height: 250px;
+.miniresult{
+    background-color: rgb(160, 164, 216);
+    color: linen;
+    border: 2px solid rgb(0, 234, 255);
+    border-radius: 20px;
 }
-#bika{
-    background: rgb(255, 255, 255);
-    border-radius: 10px;
-    padding: 5px;
-    box-shadow: 5px 5px 18px rgb(4, 41, 248);
-
+.test_image_and_result h5{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border-radius: 20px;
+    font-size: 20px;
 }
-#bika h5{
-    background: rgb(235, 191, 235);
+h1{
+  font-family: cursive;  
+  font-weight: 600;
 }
-.bob3{
-    background-color: aqua;
-    box-shadow: 1px 1px 38px white;
-    border-radius: 10px;
-    padding: 5px;
+h2{
+    font-family: fantasy;
+    font-weight: bold;
+}
+.copyrightfooter{
+    position: fixed;
+   color: rgb(5, 253, 241);
+   bottom: 0;
+   width: 100%;
+   background-color: coral;
+   line-height: 3;
+   text-align: center;
 }
